@@ -1,16 +1,15 @@
 # tracking_app
 
-A new Flutter project.
+A new Flutter project using google maps.
 
-## Getting Started
+**_App detect user location and send it to firebase realtime database.
+App  get location of user from firebase realtime database and show user location on map.**_
 
-This project is a starting point for a Flutter application.
+**Using flutter bloc in this project to manage state easily and clean code.**
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+****Package used in this project:****
+* Google_maps_flutter
+* Location
+* firebase_core
+* firebase_database
+* Flutter_bloc
