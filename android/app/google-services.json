@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "356706532497",
+    "firebase_url": "https://trackingapp-b11b6-default-rtdb.firebaseio.com",
+    "project_id": "trackingapp-b11b6",
+    "storage_bucket": "trackingapp-b11b6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356706532497:android:0f1deb2d2008326fa4d330",
+        "android_client_info": {
+          "package_name": "com.example.tracking_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaAuEif4VIeSKsM5ENWvar_AKGqHjegi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
